@@ -1,2 +1,2 @@
 # Z_GIT_INT
-Development completed
+Development complete
