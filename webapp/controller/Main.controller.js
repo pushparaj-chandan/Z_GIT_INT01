@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("com.probosys.Z_GIT_INT.controller.Main", {
 		onInit: function () {
-
+alert("Development done!");
 		}
 	});
 });
